@@ -1,0 +1,18 @@
+{C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/Memory.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/Memory.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv} {2 {vlog -work work -vopt -sv -stats=none {C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling package MEM_Package
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv(4): Using implicit +incdir+C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+** Warning: MEM_Scoreboard.sv(42): (vlog-2875) Task "golden_model" is being called in function "write".
+
+Top level modules:
+	--none--
+
+} {} {}}

@@ -1,0 +1,25 @@
+{C:/Users/Wello/Desktop/material/GP/MY GITHUB_MEM/SV/Tbench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Wello/Desktop/material/GP/MY GITHUB_MEM/SV/Tbench.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling package Tbench_sv_unit
+-- Importing package mem_package
+-- Compiling interface MemoryInterface
+-- Compiling module MEM_top
+
+Top level modules:
+	MEM_top
+
+} {} {}} {C:/Users/Wello/Desktop/material/GP/MY GITHUB_MEM/SV/Memory.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Wello/Desktop/material/GP/MY GITHUB_MEM/SV/Memory.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {C:/Users/Wello/Desktop/material/GP/MY GITHUB_MEM/SV/pack_file.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Wello/Desktop/material/GP/MY GITHUB_MEM/SV/pack_file.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling package mem_package
+
+Top level modules:
+	--none--
+
+} {} {}}

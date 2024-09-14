@@ -1,0 +1,513 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.7c/examples
+T_opt
+!s110 1726176486
+V6cX;7K_GTW>3TOKJVUmlZ3
+04 5 4 work A_TOP fast 0
+=1-a02bb836f9de-66e35ce6-f4-41c
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1726160413
+VQkX?bl[e6CQZzFim:HcZC1
+04 6 4 work my_top fast 0
+=3-a02bb836f9de-66e31e1d-1c7-3618
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1726247257
+VcILQUTB;KF00^]QId]>Gk0
+04 7 4 work MEM_TOP fast 0
+=1-a02bb836f9de-66e47157-39b-4350
+R1
+R2
+n@_opt2
+R3
+vA_TOP
+Z4 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z5 DXx6 mtiUvm 7 uvm_pkg 0 22 3zPkj@YUcM=M^m3zCLh<H1
+Z6 DXx4 work 11 MEM_Package 0 22 >G:WoN46Q8bR>C8<jLGji1
+Z7 DXx4 work 15 MEM_TOP_sv_unit 0 22 I3GW[3<8hI62VPf^U5ViR0
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 Jl`lY6:Ma04m@HPzh_Ahi1
+IGo8UPJb7R^[6lMC?Z`V2i1
+Z9 !s105 MEM_TOP_sv_unit
+S1
+Z10 dC:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM
+w1726246823
+Z11 8C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/MEM_TOP.sv
+Z12 FC:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/MEM_TOP.sv
+L0 6
+Z13 OL;L;10.7c;67
+31
+!s108 1726247197.000000
+Z14 !s107 MEM_INTERFACE.sv|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/MEM_TOP.sv|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/MEM_TOP.sv|
+!i113 0
+Z16 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a_@t@o@p
+YAES_INTERFACE
+R4
+!s110 1726176411
+!i10b 1
+!s100 CmC2d6gd65;m8W1UN8[IZ3
+IO1]2OLh;eOW6<zW?jgM]X1
+R8
+Z17 !s105 AES_TOP_sv_unit
+S1
+R10
+w1726159290
+8AES_INTERFACE.sv
+Z18 FAES_INTERFACE.sv
+L0 1
+R13
+r1
+!s85 0
+31
+Z19 !s108 1726176411.000000
+Z20 !s107 AES_INTERFACE.sv|C:\Users\Wello\Desktop\material\GP\M GITHUB_UVM_MEM\AES_TOP.sv|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Wello\Desktop\material\GP\M GITHUB_UVM_MEM\AES_TOP.sv|
+!i113 0
+R16
+R2
+n@a@e@s_@i@n@t@e@r@f@a@c@e
+XAES_Package
+!s115 AES_INTERFACE
+R4
+R5
+!s110 1726176412
+!i10b 1
+!s100 nHMEDcHQ2K=`jI_j`ML>d1
+I]VCb25gGUR]I1JGelljeZ2
+V]VCb25gGUR]I1JGelljeZ2
+S1
+R10
+w1726173656
+Z22 8C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv
+Z23 FC:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv
+Z24 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+Z25 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+Z26 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+Z27 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+Z28 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+Z29 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+Z30 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+Z31 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+Z32 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+Z33 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+Z34 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+Z35 FC:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+FAES_seq_item.sv
+FAES_Sequancer.sv
+FAES_Driver.sv
+FAES_Monitor.sv
+FAES_Agent.sv
+FAES_Scoreboard.sv
+FAES_coverage_collector.sv
+FAES_Sequance.sv
+FAES_ENV.sv
+FAES_TEST.sv
+L0 1
+R13
+r1
+!s85 0
+31
+!s108 1726176412.000000
+!s107 AES_TEST.sv|AES_ENV.sv|AES_Sequance.sv|AES_coverage_collector.sv|AES_Scoreboard.sv|AES_Agent.sv|AES_Monitor.sv|AES_Driver.sv|AES_Sequancer.sv|AES_seq_item.sv|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv|
+Z36 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv|
+!i113 0
+R16
+R2
+n@a@e@s_@package
+vAES_TOP
+R4
+R5
+DXx4 work 11 AES_Package 0 22 :b5o[GW8hkW]6W9m;QbAN2
+DXx4 work 15 AES_TOP_sv_unit 0 22 QVf8HKQS@:DA]Jljc??:E1
+R8
+r1
+!s85 0
+!i10b 1
+!s100 hS8Q<cHGHK?F]@ZZa74Z32
+IgoPAolQa:W:ia_IDO>>bG2
+R17
+S1
+R10
+Z37 w1726087531
+8C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/AES_TOP.sv
+FC:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/AES_TOP.sv
+L0 6
+R13
+31
+!s108 1726147449.000000
+!s107 AES_INTERFACE.sv|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/AES_TOP.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/AES_TOP.sv|
+!i113 0
+R16
+R2
+n@a@e@s_@t@o@p
+XAES_TOP_SV_unit
+R4
+R5
+DXx4 work 11 AES_Package 0 22 NG;X_HRIaBQ5Z>9AhmRgY0
+VD>oiGzB4T];0`cZ7QE4LA3
+r1
+!s85 0
+!i10b 1
+!s100 i@jjNlK0z:3]:??=j6DJa0
+ID>oiGzB4T];0`cZ7QE4LA3
+!i103 1
+S1
+R10
+R37
+8AES_TOP.SV
+FAES_TOP.SV
+R18
+L0 3
+R13
+31
+!s108 1726130178.000000
+!s107 AES_INTERFACE.sv|Memory.v|AES_TOP.SV|
+!s90 -reportprogress|300|AES_TOP.SV|Memory.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a@e@s_@t@o@p_@s@v_unit
+XAES_TOP_sv_unit
+R4
+R5
+DXx4 work 11 AES_Package 0 22 M?JDJI58UR;GC3b9V`]P^1
+V1[N?BJT2K8V_Ke@i<ic240
+r1
+!s85 0
+!i10b 1
+!s100 G2c60XgW>K=bW4:dMRTio1
+I1[N?BJT2K8V_Ke@i<ic240
+!i103 1
+S1
+R10
+w1726167439
+8C:\Users\Wello\Desktop\material\GP\M GITHUB_UVM_MEM\AES_TOP.sv
+FC:\Users\Wello\Desktop\material\GP\M GITHUB_UVM_MEM\AES_TOP.sv
+R18
+L0 3
+R13
+31
+R19
+R20
+R21
+!i113 0
+R16
+R2
+n@a@e@s_@t@o@p_sv_unit
+Yintf1
+R4
+R5
+DXx4 work 13 pack1_sv_unit 0 22 ECF<Rl[SW<:g7TIVLTZ[l1
+R8
+r1
+!s85 0
+!i10b 1
+!s100 RPND=aMhj:V@DmnC;>B4i2
+I;8n7eV5lWlG@@Ro?@a]lm1
+!s105 pack1_sv_unit
+S1
+R10
+w1725625224
+8C:\Users\Wello\Desktop\lab 1\interface.sv
+Z38 FC:\Users\Wello\Desktop\lab 1\interface.sv
+L0 1
+R13
+31
+Z39 !s108 1726160409.000000
+Z40 !s107 C:\Users\Wello\Desktop\lab 1\interface.sv|C:\Users\Wello\Desktop\lab 1\my_test.sv|C:\Users\Wello\Desktop\lab 1\my_env.sv|C:\Users\Wello\Desktop\lab 1\my_subscriber.sv|C:\Users\Wello\Desktop\lab 1\my_scoreboard.sv|C:\Users\Wello\Desktop\lab 1\my_agent.sv|C:\Users\Wello\Desktop\lab 1\my_sequencer.sv|C:\Users\Wello\Desktop\lab 1\my_monitor.sv|C:\Users\Wello\Desktop\lab 1\my_driver.sv|C:\Users\Wello\Desktop\lab 1\my_sequence.sv|C:\Users\Wello\Desktop\lab 1\my_sequence_item.sv|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|C:/Users/Wello/Desktop/lab 1/pack1.sv|
+Z41 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Wello/Desktop/lab 1/pack1.sv|
+!i113 0
+R16
+R2
+YMEM_INTERFACE
+R4
+Z42 !s110 1726247239
+!i10b 1
+!s100 Z:>]]7@N9L>kH1oCmnHib0
+Ifg]PlX6MD3jT@Q3?5WZBb0
+R8
+R9
+S1
+R10
+w1726246800
+8MEM_INTERFACE.sv
+Z43 FMEM_INTERFACE.sv
+L0 1
+R13
+r1
+!s85 0
+31
+Z44 !s108 1726247239.000000
+R14
+R15
+!i113 0
+R16
+R2
+n@m@e@m_@i@n@t@e@r@f@a@c@e
+XMEM_Package
+!s115 MEM_INTERFACE
+R4
+R5
+R42
+!i10b 1
+!s100 gcR]1GXB58W3^QnAF<Dd]0
+I>G:WoN46Q8bR>C8<jLGji1
+V>G:WoN46Q8bR>C8<jLGji1
+S1
+R10
+w1726247148
+R22
+R23
+R24
+R25
+R26
+R27
+R28
+R29
+R30
+R31
+R32
+R33
+R34
+R35
+FMEM_seq_item.sv
+FMEM_Sequancer.sv
+FMEM_Driver.sv
+FMEM_Monitor.sv
+FMEM_Agent.sv
+FMEM_Scoreboard.sv
+FMEM_coverage_collector.sv
+FMEM_Sequance.sv
+FMEM_ENV.sv
+FMEM_TEST.sv
+L0 1
+R13
+r1
+!s85 0
+31
+R44
+!s107 MEM_TEST.sv|MEM_ENV.sv|MEM_Sequance.sv|MEM_coverage_collector.sv|MEM_Scoreboard.sv|MEM_Agent.sv|MEM_Monitor.sv|MEM_Driver.sv|MEM_Sequancer.sv|MEM_seq_item.sv|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/pack1.sv|
+R36
+!i113 0
+R16
+R2
+n@m@e@m_@package
+vMEM_TOP
+R4
+R5
+R6
+R7
+R8
+r1
+!s85 0
+!i10b 1
+!s100 fOKmSU^7<PV91A7Yn_@mm3
+IV;B_WV;aifD0B7nnV0`P@1
+R9
+S1
+R10
+Z45 w1726247225
+R11
+R12
+L0 6
+R13
+31
+R44
+R14
+R15
+!i113 0
+R16
+R2
+n@m@e@m_@t@o@p
+XMEM_TOP_sv_unit
+R4
+R5
+R6
+VI3GW[3<8hI62VPf^U5ViR0
+r1
+!s85 0
+!i10b 1
+!s100 eja=PCZmfn9lgVzU=Be?22
+II3GW[3<8hI62VPf^U5ViR0
+!i103 1
+S1
+R10
+R45
+R11
+R12
+R43
+L0 3
+R13
+31
+R44
+R14
+R15
+!i113 0
+R16
+R2
+n@m@e@m_@t@o@p_sv_unit
+vmemory
+!s110 1726160409
+!i10b 1
+!s100 @2[WCFAGj;@8ISVkT_VS31
+IM]d9aDMI]]M`0aX7G@lza1
+R8
+R10
+w1725994417
+8C:/Users/Wello/Desktop/lab 1/mem_dut.v
+FC:/Users/Wello/Desktop/lab 1/mem_dut.v
+L0 1
+R13
+r1
+!s85 0
+31
+!s108 1726160408.000000
+!s107 C:/Users/Wello/Desktop/lab 1/mem_dut.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Wello/Desktop/lab 1/mem_dut.v|
+!i113 0
+Z46 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vMemory
+R42
+!i10b 1
+!s100 UKWdPIL10J2DkMMl]kjC;0
+IYI<C5d@i:bf<6<Q80FVh<0
+R8
+R10
+w1724872931
+8C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/Memory.v
+FC:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/Memory.v
+L0 1
+R13
+r1
+!s85 0
+31
+R44
+!s107 C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Wello/Desktop/material/GP/M GITHUB_UVM_MEM/Memory.v|
+!i113 0
+R46
+R2
+n@memory
+vmy_top
+R4
+R5
+DXx4 work 14 my_top_sv_unit 0 22 RoYNZP4ZXWA>NYaF>??@K0
+R8
+r1
+!s85 0
+!i10b 1
+!s100 LcCODfzLf<U7cBj:WaS?H3
+IBGLWUfSBGRNFH21NKQ6eK3
+!s105 my_top_sv_unit
+S1
+R10
+Z47 w1726160174
+Z48 8C:/Users/Wello/Desktop/lab 1/my_top.sv
+Z49 FC:/Users/Wello/Desktop/lab 1/my_top.sv
+L0 3
+R13
+31
+R39
+Z50 !s107 AES_TEST.sv|AES_ENV.sv|AES_Sequance.sv|AES_coverage_collector.sv|AES_Scoreboard.sv|AES_Agent.sv|AES_Monitor.sv|AES_Driver.sv|AES_Sequancer.sv|AES_seq_item.sv|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|C:/questasim64_10.7c/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|pack1.sv|C:/Users/Wello/Desktop/lab 1/my_top.sv|
+Z51 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Wello/Desktop/lab 1/my_top.sv|
+!i113 0
+R16
+R2
+Xmy_top_sv_unit
+R4
+R5
+VRoYNZP4ZXWA>NYaF>??@K0
+r1
+!s85 0
+!i10b 1
+!s100 lRAC_N:i8lUU^5@E5<WYl3
+IRoYNZP4ZXWA>NYaF>??@K0
+!i103 1
+S1
+R10
+R47
+R48
+R49
+Fpack1.sv
+L0 1
+R13
+31
+R39
+R50
+R51
+!i113 0
+R16
+R2
+Xpack1_sv_unit
+!s115 intf1
+R4
+R5
+VECF<Rl[SW<:g7TIVLTZ[l1
+r1
+!s85 0
+!i10b 1
+!s100 06_fz_4QR46l^5PLC3Y4W2
+IECF<Rl[SW<:g7TIVLTZ[l1
+!i103 1
+S1
+R10
+w1726160402
+8C:/Users/Wello/Desktop/lab 1/pack1.sv
+FC:/Users/Wello/Desktop/lab 1/pack1.sv
+R24
+R25
+R26
+R27
+R28
+R29
+R30
+R31
+R32
+R33
+R34
+R35
+FC:\Users\Wello\Desktop\lab 1\my_sequence_item.sv
+FC:\Users\Wello\Desktop\lab 1\my_sequence.sv
+FC:\Users\Wello\Desktop\lab 1\my_driver.sv
+FC:\Users\Wello\Desktop\lab 1\my_monitor.sv
+FC:\Users\Wello\Desktop\lab 1\my_sequencer.sv
+FC:\Users\Wello\Desktop\lab 1\my_agent.sv
+FC:\Users\Wello\Desktop\lab 1\my_scoreboard.sv
+FC:\Users\Wello\Desktop\lab 1\my_subscriber.sv
+FC:\Users\Wello\Desktop\lab 1\my_env.sv
+FC:\Users\Wello\Desktop\lab 1\my_test.sv
+R38
+L0 2
+R13
+31
+R39
+R40
+R41
+!i113 0
+R16
+R2
